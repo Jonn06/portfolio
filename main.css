@@ -3,8 +3,6 @@ img, embed, object, video {
   height: auto;
 }
 
-@import "bootstrap-social.less";
-
 .page-header {
   border-bottom: none;
 }
