@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 img, embed, object, video {
   max-width: 100%;
   height: auto;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
 }
 
 .page-header {
@@ -22,5 +28,5 @@ img, embed, object, video {
 
 .footer {
   text-align: center;
-  padding-bottom 10px;
+  padding-bottom: 10px;
 }
