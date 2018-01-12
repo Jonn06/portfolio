@@ -1,0 +1,27 @@
+img, embed, object, video {
+  max-width: 100%;
+  height: auto;
+}
+
+@import "bootstrap-social.less";
+
+.page-header {
+  border-bottom: none;
+}
+
+.header {
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.featured {
+  text-transform: uppercase;
+}
+
+.text {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+}
