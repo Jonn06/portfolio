@@ -1,12 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
 
-img, embed, object, video {
+img,
+embed,
+object,
+video {
   max-width: 100%;
   height: auto;
 }
 
+/* Typography */
+
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 .page-header {
